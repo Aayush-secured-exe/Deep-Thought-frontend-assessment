@@ -8,7 +8,7 @@ The application is built using **React + Vite** and strictly follows the **Figma
 ## 🚀 Live Demo
 
 🔗 **Vercel Deployment**  
-https://deep-thought-frontend-assessment.vercel.app
+https://deep-thought-frontend-assessment-by-aayushshaw.vercel.app/
 
 ---
 
