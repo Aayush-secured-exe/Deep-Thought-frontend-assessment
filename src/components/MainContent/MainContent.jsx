@@ -1,7 +1,7 @@
 import "./MainContent.css";
 import TaskDescription from "./TaskDescription";
 import AssetGrid from "./AssetGrid";
-import project from "../../data/projectData.json";
+import project from "../../Data/projectData.json";
 
 function MainContent() {
   const task = project.tasks[0];
