@@ -1,0 +1,26 @@
+.floating-buttons {
+  position: fixed;
+  bottom: 0;
+  right: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding-bottom: 16px;
+  z-index: 1000;
+}
+
+.fab {
+  width: 85px;
+  height: 85px;
+  border-radius: 50%;
+  background: #0029ff;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fab img {
+  object-fit: contain;
+}

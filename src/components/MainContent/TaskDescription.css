@@ -1,0 +1,23 @@
+.task-description-card {
+  margin-left: 187px;
+  margin-right: 187px;
+  margin-top: 37px;
+  background: #e9ecef;
+  border-radius: 5px;
+  padding: 25px 27px;
+}
+
+.task-description-card h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #000000;
+  line-height: 100%;
+  letter-spacing: 2%;
+}
+
+.task-description-card p {
+  font-size: 14px;
+  color: #000000;
+  line-height: 150%;
+  letter-spacing: 2%;
+}
